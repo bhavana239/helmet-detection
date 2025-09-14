@@ -45,3 +45,4 @@ python main.py --source input_video.mp4
 Example detection:
 (Input image → Output with bounding boxes and labels)
 ![image alt](https://github.com/bhavana239/helmet-detection/blob/8224d6c6cce58ee5037cab0a03cd00efdace746e/hd1.png)
+![image alt](https://github.com/bhavana239/helmet-detection/blob/dcd3995c8bcb39ea3e72d7d653301bdd0ec0aa5c/hd2.png)
